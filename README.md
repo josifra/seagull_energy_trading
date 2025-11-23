@@ -7,7 +7,8 @@ I chose to compare the selected reference day with the current day, since this m
 A refresh loop was added so the graph and CSV table update automatically every 30 minutes, which matches the update frequency of the dataset.
 A small timestamp panel displays the last update time and the next scheduled refresh to make the process clearer.
 
-You will find everything of the TASK 1
+You will find everything of the TASK 1:
+https://github.com/josifra/seagull_energy_trading/tree/f5b02db403af2b785c1339481ac6e4635e21eac5/Task_1
 
 **For the 2nd task:**
 To the last question mentioned in the exercise: _what impact do you think the forecast error might have had on the system?_
