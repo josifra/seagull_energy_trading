@@ -19,6 +19,7 @@ When actual generation is lower than forecast (negative difference):
 - This increases balancing costs
 
 _All the TASK 2 is here:_
+https://github.com/josifra/seagull_energy_trading/tree/78e4405291d137167ebe772d55b3f8747e1ff0aa/Task_2
 
-
-
+Kind regards,
+Joris
