@@ -7,7 +7,7 @@ I chose to compare the selected reference day with the current day, since this m
 A refresh loop was added so the graph and CSV table update automatically every 30 minutes, which matches the update frequency of the dataset.
 A small timestamp panel displays the last update time and the next scheduled refresh to make the process clearer.
 
-You will find everything of the TASK 1:
+_You will find everything of the TASK 1:_
 https://github.com/josifra/seagull_energy_trading/tree/f5b02db403af2b785c1339481ac6e4635e21eac5/Task_1
 
 **For the 2nd task:**
@@ -18,4 +18,7 @@ When actual generation is lower than forecast (negative difference):
 - It may trigger reserve activation
 - This increases balancing costs
 
-All the TASK 2 is here
+_All the TASK 2 is here:_
+
+
+
