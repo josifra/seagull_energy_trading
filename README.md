@@ -1,4 +1,4 @@
-# seagull_energy_trading
+# Seagull Energy Trading tasks
 
 Dear Jędrek, dear Marek,
 
